@@ -1,0 +1,21 @@
+@echo off
+echo OneDrive: %OneDrive%
+echo Path: %Path%
+echo TEMP: %TEMP%
+echo TMP: %TMP%
+echo ComSpec: %ComSpec%
+echo DriverData: %DriverData%
+echo NUMBER_OF_PROCESSORS: %NUMBER_OF_PROCESSORS%
+echo OS: %OS%
+echo Path: %Path%
+echo PATHEXT: %PATHEXT%
+echo PROCESSOR_ARCHITECTURE: %PROCESSOR_ARCHITECTURE%
+echo PROCESSOR_IDENTIFIER: %PROCESSOR_IDENTIFIER%
+echo PROCESSOR_LEVEL: %PROCESSOR_LEVEL%
+echo PROCESSOR_REVISION: %PROCESSOR_REVISION%
+echo PSModulePath: %PSModulePath%
+echo TEMP: %TEMP%
+echo TMP: %TMP%
+echo USERNAME: %USERNAME%
+echo VBOX_MSI_INSTALL_PATH: %VBOX_MSI_INSTALL_PATH%
+echo windir: %windir%
